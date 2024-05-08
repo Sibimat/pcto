@@ -8,8 +8,6 @@ int main()
     if(n%a==0)
     {
         c=c+1
-
-
     }
 
 
